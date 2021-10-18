@@ -5,6 +5,7 @@
 В течении 8 лет я работал в интернет маркетинге (от стратегий и формирований отделов до лендингов на коленке и конференций), а теперь очень сильно хочу погрузиться в Data Science, чтобы реализовывать проекты на стыке социологии/психологии и AI. Сейчас на этапе поиска команды, в которой наточить свой скилл :)
 
 Текущее интересное:
+- Мои Сертификаты [тут](https://github.com/dmitriygorlov/certificates)
 - Выполненные проекты в рамках Яндекс.Практикум_Data-Science [github](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)
 - Приложение на ML, предсказывающее стоимость Бриллианта [github](https://github.com/dmitriygorlov/Test-app-Diamod-Heroku) [web](https://how-big-is-love.herokuapp.com/)
 <!-- - Kaggle practice  -->
