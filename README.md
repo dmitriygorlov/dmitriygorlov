@@ -2,11 +2,11 @@ Aloha!
 
 My name is Dmitrii Gorlov and I'm <strike>data-alcoholic</strike> Date Lover :)
 
-For 8 years I have been working in Internet marketing (from strategies and department management to landing pages and conferences). 
+For 8 years I have been working in Digital Marketing (from strategies and department management to landing pages and conferences). 
 
 One day I woke up and realized that I love data and I like to tinker with it and do cool stuff. 
 
-I develop in data science in order to implement business efficient and non-commercial projects at the intersection of sociology/psychology and ML/AI.
+I develop in Data Science in order to implement business efficient and non-commercial projects at the intersection of sociology/psychology and ML/AI.
 
 Now I work as a `Data Scientist` at [Ticketland.ru](https://www.ticketland.ru/). I am engaged in recommender systems, classifiers and predictions, as well as reports.
 
