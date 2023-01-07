@@ -6,7 +6,7 @@ For 8 years I have been working in Digital Marketing (from strategies and depart
 
 One day I woke up and realized that I love data and I like to tinker with it and do cool stuff. 
 
-I develop in Data Science in order to implement business efficient and non-commercial projects at the intersection of sociology/psychology and ML/AI. I am most valuable in e-commerce projects)
+I develop in Data Science in order to implement business efficient and non-commercial projects at the intersection of sociology/psychology and ML/AI. **I am most valuable in e-commerce projects**
 
 Now I work as a `Data Scientist` at [Ticketland.ru](https://www.ticketland.ru/). I am engaged in recommender systems, classifiers and predictions, as well as reports.
 
