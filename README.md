@@ -1,6 +1,6 @@
 Aloha!
 
-My name is Dmitrii Gorlov and I'm <strike>data-alcoholic</strike> Date Lover :)
+My name is Dmitrii Gorlov and I'm <strike>data-alcoholic</strike> Data Lover :)
 
 For 8 years I have been working in Digital Marketing (from strategies and department management to landing pages and conferences). 
 
