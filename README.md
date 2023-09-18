@@ -13,7 +13,6 @@ Now I work as a `Data Scientist` at [Ticketland.ru](https://www.ticketland.ru/).
 Structure:
 - Certificates [here](https://github.com/dmitriygorlov/certificates)
 - Education projects Yandex.Practicum: Data-Science [github](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)
-- Yet_another_ml_app that tries to predict value of diamond (marry or not) [github](https://github.com/dmitriygorlov/Test-app-Diamod-Heroku) 
 - Fun with pet-projects [ZOO](https://github.com/dmitriygorlov/fun-with-pets)
 
 ZOO (pets):
