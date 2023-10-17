@@ -21,6 +21,7 @@ ZOO (pets):
 - Easy recomendations for email [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)
 - Yet another gpt bot with restricted access [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)
 - Auto sales analysis [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)
+- Jokes with Airflow [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/jokes-aside_airflow)
 
 Hobby:
 - Ethnosocial tourism
