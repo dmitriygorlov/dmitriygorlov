@@ -40,3 +40,4 @@ I would be happy to consider any collaboration offers!
 
 Contact me:
 - Telegram: [@marketer](https://t.me/marketer)
+- Linkedin: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
