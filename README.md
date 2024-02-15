@@ -30,6 +30,7 @@ ZOO (pets):
 - Auto sales analysis [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)
 - Jokes with Airflow [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/jokes-aside_airflow)
 - Probability Endurance Visualizer [streamlit](https://probability-endurance.streamlit.app/) [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/probability-endurance_streamlit)
+- Sales Forecasting with Prophet [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
 
 Hobby:
 - Ethnosocial tourism
