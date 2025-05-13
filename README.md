@@ -1,49 +1,70 @@
 # Dmitrii Gorlov – Data Scientist | Recommender Systems & Applied ML
 
-Hi! I’m Dmitrii — a data scientist with 10+ years of experience across digital marketing, analytics, and machine learning. I specialize in solving practical business problems with data, focusing on fast, efficient solutions that deliver value without unnecessary complexity.
+Hey there! 👋  
+I’m Dmitrii — a curious human who accidentally fell in love with data and never looked back.
 
-My current interests include:
-- **Recommender systems** (collaborative filtering, cold start, hybrid approaches)
-- **Applied ML** for user behavior, retention, and forecasting
-- **Building lightweight, interpretable solutions** that work well under real-world constraints
+For over 10 years, I’ve been helping businesses make smarter decisions — first through digital marketing and analytics, and now through machine learning and product-focused data science.
 
-I value clarity, practicality, and speed in development. I'm especially effective on projects that connect business/product logic with analytical rigor — often in web, e-commerce, or behavioral domains.
+I’m especially passionate about:
+- 🤖 Recommender systems & personalization
+- 📈 Applied ML for user behavior, forecasting, and business KPIs
+- ⚙️ Building fast, interpretable, and resource-efficient solutions
 
----
-
-## 📦 Selected Experience
-
-- Designing **end-to-end recommendation pipelines** (from offline batch scoring to Redis-based delivery)
-- Developing **forecasting and classification models** for user and product behavior
-- Building and optimizing **data pipelines** (ETL from scratch, legacy optimization)
-- Applying **time series analysis**, **LLMs**, and experimentation frameworks in production
+I enjoy digging deep into problems, spotting patterns, and shipping things that work — even if they’re not flashy. I believe the best models are the ones that make it into production *and* make sense to the people using them.
 
 ---
 
-## 🔍 Explore My Projects
+## 🧰 Tech Stack & Tools
 
-### 🛠️ Data Projects (Pet & Production Prototypes)
-
-- [Sales Forecasting with Prophet](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
-- [Auto Sales Analytics](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)
-- [Email Recs (LightFM + Docker)](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)
-- [GPT Telegram Bot](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)
-- [Probability Endurance Visualizer](https://probability-endurance.streamlit.app/)
-
-_(Full list in `fun-with-pets/`)_
-
-### 🎓 Education
-- [Yandex.Practicum Projects](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)
-- [Certificates](https://github.com/dmitriygorlov/certificates)
+- **Languages**: Python, SQL  
+- **ML/DS**: Scikit-learn, LightFM, Prophet, CatBoost, implicit, pandas, NumPy  
+- **Data**: ClickHouse, PostgreSQL, Redis, Airflow  
+- **Infra**: Docker, Git, Jupyter, Streamlit  
+- **BI**: Power BI, Metabase  
+- **Other**: REST APIs, Telegram bots, lightweight ML in prod
 
 ---
 
-## 🤝 Interests & Collaboration
+## 💼 Selected Experience
 
-Beyond work, I’m interested in behavioral psychology, ethnosocial tourism, and how human behavior interacts with systems and data. I enjoy building tools and prototypes that explore these intersections.
+- Built end-to-end **recommendation pipelines** with offline scoring + Redis delivery  
+- Developed **forecasting models** (sales, user retention, behavior)  
+- Created **classification models** for churn, targeting, and segments  
+- Designed custom **ETL processes**, optimized legacy pipelines  
+- Prototyped tools & bots for internal automation and reporting
 
-Feel free to reach out for collaboration or just to chat about data, RecSys, or ideas.
+---
 
-📬 **Contact:**
-- Telegram: [@marketer](https://t.me/marketer)
-- LinkedIn: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
+## 🧪 Side Projects
+
+> I enjoy creating lightweight prototypes that explore data, behavior, and UX. Some are serious. Some are fun. Some are both.
+
+- 📬 [Email Recs with LightFM](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)  
+- 🧠 [GPT-based Telegram Bot](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)  
+- 📊 [Probability Endurance Visualizer](https://probability-endurance.streamlit.app/)  
+- 🚗 [Auto Sales Analytics](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)  
+- 📈 [Sales Forecasting with Prophet](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
+
+More in [`fun-with-pets`](https://github.com/dmitriygorlov/fun-with-pets)
+
+---
+
+## 🎓 Learning & Education
+
+- [Yandex.Practicum Projects](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)  
+- [Certificates & Courses](https://github.com/dmitriygorlov/certificates)
+
+---
+
+## 🧭 Beyond Data
+
+I’m fascinated by the intersection of technology and human behavior — especially where data meets psychology, product design, and real-world messiness. Also active in communities around **authentic relating**, **ethnosocial tourism**, and **behavioral science**.
+
+---
+
+## 🤝 Let’s Connect
+
+Open to collaboration, freelance opportunities, or just chatting about data and nerdy stuff.
+
+📬 Telegram: [@marketer](https://t.me/marketer)  
+💼 LinkedIn: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
