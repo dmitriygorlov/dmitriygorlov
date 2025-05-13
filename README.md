@@ -1,44 +1,49 @@
-Aloha!
+# Dmitrii Gorlov – Data Scientist | Recommender Systems & Applied ML
 
-My name is Dmitrii Gorlov and I'm <strike>data-alcoholic</strike> Data Lover :)
+Hi! I’m Dmitrii — a data scientist with 10+ years of experience across digital marketing, analytics, and machine learning. I specialize in solving practical business problems with data, focusing on fast, efficient solutions that deliver value without unnecessary complexity.
 
-For 8 years I have been working in Digital Marketing (from strategies and department management to landing pages and conferences). 
+My current interests include:
+- **Recommender systems** (collaborative filtering, cold start, hybrid approaches)
+- **Applied ML** for user behavior, retention, and forecasting
+- **Building lightweight, interpretable solutions** that work well under real-world constraints
 
-One day I woke up and realized that I love data and I like to play with it and do cool stuff. 
+I value clarity, practicality, and speed in development. I'm especially effective on projects that connect business/product logic with analytical rigor — often in web, e-commerce, or behavioral domains.
 
-I am developing my skills in Data Science to implement business-oriented and non-commercial projects at the intersection of sociology/psychology and ML/AI. **I am most valuable in web/e-commerce projects.**
+---
 
-My experience includes:
+## 📦 Selected Experience
 
-- Building ETL from scratch and optimizing legacy.
-- Developing recommendation systems, classifiers, and predictions.
-- Time series analysis and LLM application.
-- Working on projects that do not require large computing resources.
+- Designing **end-to-end recommendation pipelines** (from offline batch scoring to Redis-based delivery)
+- Developing **forecasting and classification models** for user and product behavior
+- Building and optimizing **data pipelines** (ETL from scratch, legacy optimization)
+- Applying **time series analysis**, **LLMs**, and experimentation frameworks in production
 
-I appreciate tasks where I can apply my knowledge and experience without resorting to "heavy" neural networks.
+---
 
-Structure:
-- Certificates [here](https://github.com/dmitriygorlov/certificates)
-- Education projects Yandex.Practicum: Data-Science [github](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)
-- Fun with pet-projects [ZOO](https://github.com/dmitriygorlov/fun-with-pets)
+## 🔍 Explore My Projects
 
-ZOO (pets):
-- Diamond lading-page [web](https://how-big-is-love.herokuapp.com/)
-- Is it simple bot [telegram](https://t.me/is_it_simple_bot)
-- Easy recomendations for email [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)
-- Yet another gpt bot with restricted access [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)
-- Auto sales analysis [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)
-- Jokes with Airflow [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/jokes-aside_airflow)
-- Probability Endurance Visualizer [streamlit](https://probability-endurance.streamlit.app/) [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/probability-endurance_streamlit)
-- Sales Forecasting with Prophet [docker](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
+### 🛠️ Data Projects (Pet & Production Prototypes)
 
-Hobby:
-- Ethnosocial tourism
-- Behavioral psychology
-- Authentic related games
+- [Sales Forecasting with Prophet](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
+- [Auto Sales Analytics](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)
+- [Email Recs (LightFM + Docker)](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)
+- [GPT Telegram Bot](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)
+- [Probability Endurance Visualizer](https://probability-endurance.streamlit.app/)
 
-I would be happy to consider any collaboration offers!
+_(Full list in `fun-with-pets/`)_
 
-Contact me:
+### 🎓 Education
+- [Yandex.Practicum Projects](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)
+- [Certificates](https://github.com/dmitriygorlov/certificates)
+
+---
+
+## 🤝 Interests & Collaboration
+
+Beyond work, I’m interested in behavioral psychology, ethnosocial tourism, and how human behavior interacts with systems and data. I enjoy building tools and prototypes that explore these intersections.
+
+Feel free to reach out for collaboration or just to chat about data, RecSys, or ideas.
+
+📬 **Contact:**
 - Telegram: [@marketer](https://t.me/marketer)
-- Linkedin: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
+- LinkedIn: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
