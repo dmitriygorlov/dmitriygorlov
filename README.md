@@ -1,4 +1,4 @@
-# Dmitrii Gorlov – Data Scientist | Recommender Systems & Applied ML
+# Dmitrii Gorlov — Senior Data Scientist | Applied ML, Experimentation & Product Analytics
 
 Hey there! 👋  
 I’m Dmitrii — a curious human who accidentally fell in love with data and never looked back.
@@ -38,7 +38,7 @@ I enjoy digging deep into problems, spotting patterns, and shipping things that 
 ## 🧪 Side Projects
 
 > I enjoy creating lightweight prototypes that explore data, behavior, and UX. Some are serious. Some are fun. Some are both.
-
+- 🤖 [ChatW8Less](https://github.com/dmitriygorlov/chatw8less)
 - 📬 [Email Recs with LightFM](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)  
 - 🧠 [GPT-based Telegram Bot](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)  
 - 📊 [Probability Endurance Visualizer](https://probability-endurance.streamlit.app/)  
@@ -64,7 +64,7 @@ I’m fascinated by the intersection of technology and human behavior — especi
 
 ## 🤝 Let’s Connect
 
-Open to collaboration, freelance opportunities, or just chatting about data and nerdy stuff.
+Interested in practical ML, experimentation, product analytics, and building maintainable data products.
 
 📬 Telegram: [@marketer](https://t.me/marketer)  
 💼 LinkedIn: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
