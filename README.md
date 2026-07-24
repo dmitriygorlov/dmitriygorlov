@@ -1,70 +1,33 @@
 # Dmitrii Gorlov — Senior Data Scientist | Applied ML, Experimentation & Product Analytics
 
-Hey there! 👋  
-I’m Dmitrii — a curious human who accidentally fell in love with data and never looked back.
+Hey there! 👋 I’m Dmitrii — a product-minded Data Scientist who enjoys turning ambiguous business and user problems into ML systems that people can actually use.
 
-For over 10 years, I’ve been helping businesses make smarter decisions — first through digital marketing and analytics, and now through machine learning and product-focused data science.
+I work across the full lifecycle of ML and data products: **problem framing, data research, predictive modeling, experiment design, production pipelines, rollout, monitoring, and iteration**. My recent work spans **experimentation, personalization, recommender systems, LLM/VLM data mining, and production ML reliability**.
 
-I’m especially passionate about:
-- 🤖 Recommender systems & personalization
-- 📈 Applied ML for user behavior, forecasting, and business KPIs
-- ⚙️ Building fast, interpretable, and resource-efficient solutions
+I’m most at home where modeling meets product judgment: choosing the right level of complexity, measuring real impact, and making the result maintainable after launch.
 
-I enjoy digging deep into problems, spotting patterns, and shipping things that work — even if they’re not flashy. I believe the best models are the ones that make it into production *and* make sense to the people using them.
+## What I work on
 
----
+- **Predictive modeling & personalization** — behavior, churn, propensity, recommendations
+- **Experimentation & product analytics** — A/B test design, evaluation, decision support
+- **Production ML** — Airflow pipelines, deployment, monitoring, incident response, iteration
+- **LLM/VLM systems** — structured data extraction and practical multimodal workflows
 
-## 🧰 Tech Stack & Tools
+Recent examples include owning multiple production ML systems and ~17 Airflow DAGs, and shipping a near-real-time personalization layer serving ~100K users per day.
 
-- **Languages**: Python, SQL  
-- **ML/DS**: Scikit-learn, LightFM, Prophet, CatBoost, implicit, pandas, NumPy  
-- **Data**: ClickHouse, PostgreSQL, Redis, Airflow  
-- **Infra**: Docker, Git, Jupyter, Streamlit  
-- **BI**: Power BI, Metabase  
-- **Other**: REST APIs, Telegram bots, lightweight ML in prod
+## Featured side project
 
----
+### [ChatW8Less](https://github.com/dmitriygorlov/chatw8less)
 
-## 💼 Selected Experience
+A personal nutrition assistant built for my mom and for everyday use: **Telegram bot + mobile-friendly web app**, with OpenAI text/image flows, FastAPI, aiogram, SQLite, Docker, localization, and tests. It is a small real-world side project—not a commercial SaaS—and a good example of how I think about product behavior as well as models.
 
-- Built end-to-end **recommendation pipelines** with offline scoring + Redis delivery  
-- Developed **forecasting models** (sales, user retention, behavior)  
-- Created **classification models** for churn, targeting, and segments  
-- Designed custom **ETL processes**, optimized legacy pipelines  
-- Prototyped tools & bots for internal automation and reporting
+More experiments and earlier projects live in [`fun-with-pets`](https://github.com/dmitriygorlov/fun-with-pets), including recommender systems, forecasting, analytics, and LLM prototypes.
 
----
+## Core stack
 
-## 🧪 Side Projects
+**Python, SQL · scikit-learn, CatBoost, LightFM · ClickHouse, PostgreSQL, Redis · Airflow, Docker · FastAPI · OpenAI API**
 
-> I enjoy creating lightweight prototypes that explore data, behavior, and UX. Some are serious. Some are fun. Some are both.
-- 🤖 [ChatW8Less](https://github.com/dmitriygorlov/chatw8less)
-- 📬 [Email Recs with LightFM](https://github.com/dmitriygorlov/fun-with-pets/tree/main/ecom-recs-for-email_docker)  
-- 🧠 [GPT-based Telegram Bot](https://github.com/dmitriygorlov/fun-with-pets/tree/main/gpt_helper_bot)  
-- 📊 [Probability Endurance Visualizer](https://probability-endurance.streamlit.app/)  
-- 🚗 [Auto Sales Analytics](https://github.com/dmitriygorlov/fun-with-pets/tree/main/auto-sales-analytics_docker)  
-- 📈 [Sales Forecasting with Prophet](https://github.com/dmitriygorlov/fun-with-pets/tree/main/forecast-prophet_docker)
+## Let’s connect
 
-More in [`fun-with-pets`](https://github.com/dmitriygorlov/fun-with-pets)
+[LinkedIn](https://www.linkedin.com/in/ds-marketer/) · [Telegram](https://t.me/marketer)
 
----
-
-## 🎓 Learning & Education
-
-- [Yandex.Practicum Projects](https://github.com/dmitriygorlov/Yandex.Practikum_Data_Science)  
-- [Certificates & Courses](https://github.com/dmitriygorlov/certificates)
-
----
-
-## 🧭 Beyond Data
-
-I’m fascinated by the intersection of technology and human behavior — especially where data meets psychology, product design, and real-world messiness. Also active in communities around **authentic relating**, **ethnosocial tourism**, and **behavioral science**.
-
----
-
-## 🤝 Let’s Connect
-
-Interested in practical ML, experimentation, product analytics, and building maintainable data products.
-
-📬 Telegram: [@marketer](https://t.me/marketer)  
-💼 LinkedIn: [ds-marketer](https://www.linkedin.com/in/ds-marketer/)
