@@ -15,7 +15,11 @@ I’m most at home where modeling meets product judgment: choosing the right lev
 
 Recent examples include owning multiple production ML systems and ~17 Airflow DAGs, and shipping a near-real-time personalization layer serving ~100K users per day.
 
-## Featured side project
+## Featured side projects
+
+### [Story Companion](https://github.com/dmitriygorlov/story-companion)
+
+A spoiler-safe, evidence-grounded reading companion I built from scratch for my niece and for my own map-minded reading habits. It accepts user-provided TXT books, enforces the reader's chapter boundary before model access, and keeps book facts, model inferences, and creative choices separate—with inspectable source passages for every grounded claim. The project was developed privately first and published once the local MVP, tests, documentation, and original demo were ready.
 
 ### [ChatW8Less](https://github.com/dmitriygorlov/chatw8less)
 
