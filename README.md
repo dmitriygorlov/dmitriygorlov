@@ -1,37 +1,25 @@
-# Dmitrii Gorlov — Senior Data Scientist | Applied ML, Experimentation & Product Analytics
+<p align="center">
+  <img src="assets/applied-ml-arcade.svg" alt="Applied ML Arcade: start with a business question, choose an experiment, predictive model, or AI workflow, and measure what changes." width="920">
+</p>
 
-Hey there! 👋 I’m Dmitrii — a product-minded Data Scientist who enjoys turning ambiguous business and user problems into ML systems that people can actually use.
+# Dmitrii Gorlov · Senior Data Scientist
 
-I work across the full lifecycle of ML and data products: **problem framing, data research, predictive modeling, experiment design, production pipelines, rollout, monitoring, and iteration**. My recent work spans **experimentation, personalization, recommender systems, LLM/VLM data mining, and production ML reliability**.
+**Want AI and ML to earn their keep? Let’s figure out what’s worth building for your business.**
 
-I’m most at home where modeling meets product judgment: choosing the right level of complexity, measuring real impact, and making the result maintainable after launch.
+I came to data science through e-commerce analytics and marketing leadership. I start with the business goal, whether that’s growing revenue, bringing customers back, or making the product easier to use. Then I choose the simplest approach worth testing, build it, and measure what changes after launch.
 
-## What I work on
+Depending on the problem, that might be an A/B test, a predictive model, a recommender, or an LLM workflow. I work across the whole process, from framing the problem and checking the data to rollout and production monitoring.
 
-- **Predictive modeling & personalization** — behavior, churn, propensity, recommendations
-- **Experimentation & product analytics** — A/B test design, evaluation, decision support
-- **Production ML** — Airflow pipelines, deployment, monitoring, incident response, iteration
-- **LLM/VLM systems** — structured data extraction and practical multimodal workflows
+My production work has ranged from behavioral prediction and extracting structured data from images and PDFs to near-real-time personalization for roughly 100,000 users a day.
 
-Recent examples include owning multiple production ML systems and ~17 Airflow DAGs, and shipping a near-real-time personalization layer serving ~100K users per day.
+## Selected projects
 
-## Featured side projects
+- **[Story Companion](https://github.com/dmitriygorlov/story-companion)** — A spoiler-safe reading companion that links its answers to passages from the chapters you’ve already read. The repo has a local demo with a sample book and no API key needed.
+- **[ChatW8Less](https://github.com/dmitriygorlov/chatw8less)** — A personal nutrition tracker for Telegram and mobile web, with text and photo input.
+- **[fun-with-pets](https://github.com/dmitriygorlov/fun-with-pets)** — A collection of hands-on experiments in recommendations, forecasting, analytics, and LLMs.
 
-### [Story Companion](https://github.com/dmitriygorlov/story-companion)
+## Let’s talk
 
-A spoiler-safe, evidence-grounded reading companion I built from scratch for my niece and for my own map-minded reading habits. It accepts user-provided TXT books, enforces the reader's chapter boundary before model access, and keeps book facts, model inferences, and creative choices separate—with inspectable source passages for every grounded claim. The project was developed privately first and published once the local MVP, tests, documentation, and original demo were ready.
-
-### [ChatW8Less](https://github.com/dmitriygorlov/chatw8less)
-
-A personal nutrition assistant built for my mom and for everyday use: **Telegram bot + mobile-friendly web app**, with OpenAI text/image flows, FastAPI, aiogram, SQLite, Docker, localization, and tests. It is a small real-world side project—not a commercial SaaS—and a good example of how I think about product behavior as well as models.
-
-More experiments and earlier projects live in [`fun-with-pets`](https://github.com/dmitriygorlov/fun-with-pets), including recommender systems, forecasting, analytics, and LLM prototypes.
-
-## Core stack
-
-**Python, SQL · scikit-learn, CatBoost, LightFM · ClickHouse, PostgreSQL, Redis · Airflow, Docker · FastAPI · OpenAI API**
-
-## Let’s connect
+Have a business problem in mind? Tell me what you’d like to improve and what data you already have. We can sketch a practical first experiment that fits your business, budget, and team.
 
 [LinkedIn](https://www.linkedin.com/in/ds-marketer/) · [Telegram](https://t.me/marketer)
-
