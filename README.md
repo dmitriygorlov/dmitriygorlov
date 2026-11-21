@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/applied-ml-arcade.svg" alt="Applied ML Arcade: start with a business question, choose an experiment, predictive model, or AI workflow, and measure what changes." width="920">
+  <img src="assets/applied-ml-arcade.svg" alt="Make AI/ML pay off: a pixel-art robot tosses a coin into a till. The receipt reads: grow sales, cut busywork, prove the lift." width="920">
 </p>
 
 # Dmitrii Gorlov · Senior Data Scientist
