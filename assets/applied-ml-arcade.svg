@@ -1,39 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="288" viewBox="0 0 920 288" role="img" aria-labelledby="title descr">
-<title id="title">Applied ML Arcade</title>
-<desc id="descr">Three possible routes from a business question to a measured outcome: experiment, predictive model, or AI workflow.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="332" viewBox="0 0 920 332" role="img" aria-labelledby="title descr">
+<title id="title">Make AI/ML pay off</title>
+<desc id="descr">A pixel-art robot on a shop counter feeds a coin into a till. The till receipt reads: grow sales, cut busywork, prove the lift. No numerical results are shown.</desc>
 <style>
-  .mono{font-family:"DejaVu Sans Mono",monospace}
-  .track{fill:none;stroke:#304651;stroke-width:2;shape-rendering:crispEdges}
-  .dot{shape-rendering:crispEdges}
-  .in,.out{animation:packet 2.4s steps(19,end) 1 both}
-  .in.b{animation-delay:.55s}.in.c{animation-delay:1.1s}
-  .out.a{animation-delay:1.2s}.out.b{animation-delay:1.75s}.out.c{animation-delay:2.3s}
-  @keyframes packet{0%{transform:translateX(-24px);opacity:0}12%{opacity:1}75%{transform:translateX(31px);opacity:1}100%{transform:translateX(0);opacity:.8}}
-  @media(prefers-reduced-motion:reduce){.dot path{animation:none}}
+  .mono{font-family:ui-monospace,"DejaVu Sans Mono",monospace}
+  .machine{shape-rendering:crispEdges}
+  .coin{animation:checkout 6s cubic-bezier(.42,0,.25,1) 2 both}
+  .eye{animation:blink 6s linear 2;transform-origin:472px 168px}
+  .light{opacity:0;animation:ping 6s linear 2}
+  @keyframes checkout{
+    0%,20%{transform:translate(0,0);opacity:1}
+    36%{transform:translate(33px,-35px);opacity:1}
+    50%{transform:translate(58px,0);opacity:1}
+    53%,86%{transform:translate(58px,12px);opacity:0}
+    90%,100%{transform:translate(0,0);opacity:1}
+  }
+  @keyframes blink{0%,12%,16%,100%{transform:scaleY(1)}14%{transform:scaleY(.12)}}
+  @keyframes ping{0%,53%,100%{opacity:0}56%,69%{opacity:1}75%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.coin,.eye,.light{animation:none}.light{opacity:0}}
 </style>
-<rect width="920" height="288" rx="18" fill="#0b151f"/>
-<rect x="12" y="12" width="896" height="264" rx="10" fill="none" stroke="#29414b" stroke-width="2"/>
-<g fill="#94b8c0" class="mono" font-size="12" letter-spacing="3">
-  <text x="36" y="45">D. GORLOV / WORKBENCH</text><text x="884" y="45" text-anchor="end">01 : FIELD NOTES</text>
+<rect width="920" height="332" rx="22" fill="#0e1723"/>
+<rect x="12" y="12" width="896" height="308" rx="14" fill="none" stroke="#2b3c51" stroke-width="2"/>
+<path d="M38 66H882M38 264H882" stroke="#28394e" stroke-width="2"/>
+<g class="mono">
+  <text x="40" y="49" fill="#92a9bc" font-size="16" letter-spacing="2">D. GORLOV / APPLIED AI &amp; ML</text>
+  <text x="880" y="49" text-anchor="end" fill="#83e4bb" font-size="16" letter-spacing="1">● OPEN FOR IDEAS</text>
+  <g fill="#ffedc1" font-size="50" font-weight="bold">
+    <text x="39" y="144">MAKE AI/ML</text>
+    <text x="39" y="207">PAY OFF.</text>
+  </g>
+  <text x="40" y="238" fill="#abbfd1" font-size="18">The model isn’t the goal.</text>
+  <text x="40" y="299" fill="#93a9bc" font-size="17">FIND AN OPPORTUNITY</text>
+  <text x="351" y="299" fill="#93a9bc" font-size="17">BUILD WHAT HELPS</text>
+  <text x="880" y="299" text-anchor="end" fill="#83e4bb" font-size="17">CHECK WHAT CHANGED</text>
 </g>
-<path d="M36 56H884" stroke="#263c47"/>
-<text class="mono" font-size="30" font-weight="bold" x="36" y="96" fill="#f0fbf9">APPLIED ML ARCADE</text>
-<path class="track" d="M228 184h34v-48h78m-112 48h112m-78 0v48h78m240-96h78v48h34m-112 0h112m-112 48h78v-48"/>
-<g class="mono" font-size="16" text-anchor="middle">
-  <rect x="36" y="153" width="192" height="62" fill="#123132" stroke="#427c74"/>
-  <text x="132" y="179" fill="#a5ffdc">BUSINESS</text><text x="132" y="200" fill="#e9fcf8">QUESTION</text>
-  <rect x="340" y="119" width="240" height="34" fill="#152938" stroke="#34516a"/>
-  <rect x="340" y="167" width="240" height="34" fill="#152938" stroke="#34516a"/>
-  <rect x="340" y="215" width="240" height="34" fill="#152938" stroke="#34516a"/>
-  <text x="460" y="142" fill="#b9e6ff">EXPERIMENT</text>
-  <text x="460" y="190" fill="#c6c2ff">PREDICTIVE MODEL</text>
-  <text x="460" y="238" fill="#a5ffdc">AI WORKFLOW</text>
-  <rect x="692" y="153" width="192" height="62" fill="#33291c" stroke="#8a6b3d"/>
-  <text x="788" y="179" fill="#ffdb92">MEASURE</text><text x="788" y="200" fill="#fff5db">WHAT CHANGES</text>
+<g class="machine">
+  <!-- Shop counter and floor shadow -->
+  <path d="M366 247h235v8H366z" fill="#293c52"/>
+  <path d="M375 238h219v9H375z" fill="#43556b"/>
+  <path d="M382 240h212v5H382z" fill="#63768a"/>
+  <!-- Little shopkeeper -->
+  <path d="M444 196h61v32h-14v10h-12v-10h-20v10h-12v-17h-11v-15h8z" fill="#246f6c"/>
+  <path d="M453 197h42v20h-42z" fill="#64d3a8"/>
+  <path d="M468 204h11v6h-11z" fill="#1f685d"/>
+  <path d="M499 200h13v-11h15v11h-10v12h-18z" fill="#64d3a8"/>
+  <path d="M439 139h70v53h-70z" fill="#29796e"/>
+  <path d="M444 139h58v45h-58z" fill="#7be2b5"/>
+  <path d="M450 149h45v28h-45z" fill="#142935"/>
+  <path d="M468 121h6v18h-6z" fill="#64d3a8"/>
+  <path d="M465 115h12v8h-12z" fill="#ffd277"/>
+  <path class="eye" d="M457 158h7v9h-7zm23 0h7v9h-7z" fill="#b2ffe3"/>
+  <path d="M468 169h8v3h-8z" fill="#b2ffe3"/>
+  <!-- Till -->
+  <path d="M558 218h47v20h-47z" fill="#645041"/>
+  <path d="M563 201h36l9 17h-54z" fill="#f6b95e"/>
+  <path d="M565 200h32v4h-32z" fill="#ffdc9a"/>
+  <path d="M566 213h28v3h-28z" fill="#674d42"/>
+  <path d="M561 220h42v13h-42z" fill="#a57351"/>
+  <path d="M575 224h13v4h-13z" fill="#ffe6b0"/>
+  <!-- Payoff sparkle and flying coin -->
+  <path class="light" d="M597 173h5v8h8v5h-8v8h-5v-8h-8v-5h8z M611 159h4v4h-4z M576 165h4v4h-4z" fill="#ffd277"/>
+  <g transform="translate(523 188)">
+    <g class="coin">
+      <path d="M-7-13h14v4h5V9H7v4H-7V9h-5V-9h5z" fill="#9b652e"/>
+      <path d="M-7-13h12v4h4V7H5v4H-7V7h-5V-9h5z" fill="#ffd277"/>
+      <path d="M-5-7h9v3h-9zm0 11h9v3h-9zm3-15h3v22h-3zm-4 8h3v5h-3zm8 3h3v5h-3z" fill="#835021"/>
+    </g>
+  </g>
+  <!-- Receipt with a pixel-perforated edge -->
+  <path d="M638 92h242v154l-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-12 8-12-8-14 8z" fill="#f8e8c9"/>
+  <path d="M656 130h206" stroke="#ad9371" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M657 153h4v7h-4zm6-5h4v12h-4zm6-6h4v18h-4z M657 182l12-9-4 9h8l-12 10 4-10z M657 205h16v15h-16zm3 3v9h10v-9z" fill="#216a5c" fill-rule="evenodd"/>
 </g>
-<g class="dot">
-  <path class="in a" fill="#89d8ff" d="M285 132h8v8h-8z"/><path class="out a" fill="#89d8ff" d="M629 132h8v8h-8z"/>
-  <path class="in b" fill="#bcabff" d="M285 180h8v8h-8z"/><path class="out b" fill="#bcabff" d="M629 180h8v8h-8z"/>
-  <path class="in c" fill="#91ffcf" d="M285 228h8v8h-8z"/><path class="out c" fill="#91ffcf" d="M629 228h8v8h-8z"/>
+<g class="mono" fill="#3b2c21">
+  <text x="655" y="119" font-size="15" letter-spacing="1" font-weight="bold">WHAT PAYS OFF</text>
+  <text x="687" y="160" font-size="19" font-weight="bold">Grow sales</text>
+  <text x="687" y="190" font-size="19" font-weight="bold">Cut busywork</text>
+  <text x="687" y="220" font-size="19" font-weight="bold">Prove the lift</text>
 </g>
 </svg>
